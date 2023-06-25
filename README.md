@@ -6,4 +6,4 @@ https://metaversus-landing-page.web.app/
 
 ## Landing Page Image 
 
-![Metaverse concept landing page ][/public/page-img.png]
+![Metaverse concept landing page ](/public/page-img.png)
